@@ -8,6 +8,7 @@ Docker configuration for hadoop cluster
 2. [Docker Swarm](#docker-swarm)
    1. [Usage](#usage)
    2. [Scaling](#scaling)
+3. [Data & Code](#data_&_code)
 
 ## Overview
 This Docker container contains a full Spark distribution with the following components:
